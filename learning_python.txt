@@ -1,0 +1,3 @@
+In Python you can read files much more easily than in Java.
+In Python you can create loops that run on forever.
+In Python you can model real world objects with classes. 
